@@ -5,7 +5,10 @@ p6df::modules::sudo::deps()    {
 	)
 }
 
-p6df::modules::sudo::external() { }
+p6df::modules::sudo::external::brew() {
+
+  brew install sudo`
+}
 
 p6df::modules::sudo::init() {
 }
