@@ -10,6 +10,11 @@ p6df::modules::sudo::external::brew() {
   brew install sudo
 }
 
+p6df::modules::sudo::home::symlink() {
+
+  # XXX: none
+}
+
 p6df::modules::sudo::init() {
 }
 
