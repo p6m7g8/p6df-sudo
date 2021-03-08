@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-sudo:
+
+#### p6df-sudo/init.zsh:
 
 - p6df::modules::sudo::deps()
 
