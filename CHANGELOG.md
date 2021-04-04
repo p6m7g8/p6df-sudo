@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-sudo/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **link:** remove rendundant symlinks; echo for now ([#12](https://github.com/p6m7g8/p6df-sudo/issues/12)) ([9165f05](https://github.com/p6m7g8/p6df-sudo/commit/9165f05b631511b271c0ed4a8a755ccf66b2a339))
+* Coc -> .github ([93f6572](https://github.com/p6m7g8/p6df-sudo/commit/93f65723b6acad9297c13858c607e46ecfc8a8b1))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-sudo/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
